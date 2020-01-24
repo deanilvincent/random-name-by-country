@@ -7,7 +7,7 @@ function randomName(country, gender, nameType) {
         'Name': 'Alice'
     }]
 
-    obj = JSON.parse(data);
+    const obj = JSON.parse(data);
     const values = Object.values(obj);
 
     const randomValue = values[parseInt(Math.random() * values.length)];
