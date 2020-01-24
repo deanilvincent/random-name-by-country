@@ -6,9 +6,7 @@ function randomName(country, gender, nameType) {
     if (err) throw err;
     obj = JSON.parse(data);
     const values = Object.values(obj);
-
     const randomValue = values[parseInt(Math.random() * values.length)];
-
     return randomValue.Name;
   });
 }
