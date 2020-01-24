@@ -1,303 +1,303 @@
 const names = [
 	{
-		"name": "Wayne Thompson"
+		"Name": "Wayne Thompson"
 	},
 	{
-		"name": "Rajah Huber"
+		"Name": "Rajah Huber"
 	},
 	{
-		"name": "Jesse Leonard"
+		"Name": "Jesse Leonard"
 	},
 	{
-		"name": "Bruce Perez"
+		"Name": "Bruce Perez"
 	},
 	{
-		"name": "Myles Whitaker"
+		"Name": "Myles Whitaker"
 	},
 	{
-		"name": "Dalton Whitaker"
+		"Name": "Dalton Whitaker"
 	},
 	{
-		"name": "Emerson Sutton"
+		"Name": "Emerson Sutton"
 	},
 	{
-		"name": "Honorato Harrington"
+		"Name": "Honorato Harrington"
 	},
 	{
-		"name": "Asher Carver"
+		"Name": "Asher Carver"
 	},
 	{
-		"name": "Kareem Spencer"
+		"Name": "Kareem Spencer"
 	},
 	{
-		"name": "Chandler Mcgee"
+		"Name": "Chandler Mcgee"
 	},
 	{
-		"name": "Knox Morse"
+		"Name": "Knox Morse"
 	},
 	{
-		"name": "Jin Burt"
+		"Name": "Jin Burt"
 	},
 	{
-		"name": "Jamal Flynn"
+		"Name": "Jamal Flynn"
 	},
 	{
-		"name": "Nissim Raymond"
+		"Name": "Nissim Raymond"
 	},
 	{
-		"name": "Aristotle Coleman"
+		"Name": "Aristotle Coleman"
 	},
 	{
-		"name": "Nathan Clemons"
+		"Name": "Nathan Clemons"
 	},
 	{
-		"name": "Dustin Kelley"
+		"Name": "Dustin Kelley"
 	},
 	{
-		"name": "Eric Fox"
+		"Name": "Eric Fox"
 	},
 	{
-		"name": "Emmanuel Wilson"
+		"Name": "Emmanuel Wilson"
 	},
 	{
-		"name": "Barrett Mcintosh"
+		"Name": "Barrett Mcintosh"
 	},
 	{
-		"name": "Carlos Jensen"
+		"Name": "Carlos Jensen"
 	},
 	{
-		"name": "Gareth Levy"
+		"Name": "Gareth Levy"
 	},
 	{
-		"name": "Cyrus Mckinney"
+		"Name": "Cyrus Mckinney"
 	},
 	{
-		"name": "Evan Bradford"
+		"Name": "Evan Bradford"
 	},
 	{
-		"name": "Myles Banks"
+		"Name": "Myles Banks"
 	},
 	{
-		"name": "Noah Owens"
+		"Name": "Noah Owens"
 	},
 	{
-		"name": "Cameron Odom"
+		"Name": "Cameron Odom"
 	},
 	{
-		"name": "Bert Buckner"
+		"Name": "Bert Buckner"
 	},
 	{
-		"name": "Len Terrell"
+		"Name": "Len Terrell"
 	},
 	{
-		"name": "Keith Schmidt"
+		"Name": "Keith Schmidt"
 	},
 	{
-		"name": "Francis Kemp"
+		"Name": "Francis Kemp"
 	},
 	{
-		"name": "Declan Dyer"
+		"Name": "Declan Dyer"
 	},
 	{
-		"name": "Ashton Lindsay"
+		"Name": "Ashton Lindsay"
 	},
 	{
-		"name": "Steven Rowland"
+		"Name": "Steven Rowland"
 	},
 	{
-		"name": "Plato Hewitt"
+		"Name": "Plato Hewitt"
 	},
 	{
-		"name": "Richard Bray"
+		"Name": "Richard Bray"
 	},
 	{
-		"name": "Vance Farley"
+		"Name": "Vance Farley"
 	},
 	{
-		"name": "Alexander Finch"
+		"Name": "Alexander Finch"
 	},
 	{
-		"name": "Adrian Barrera"
+		"Name": "Adrian Barrera"
 	},
 	{
-		"name": "Steel Maynard"
+		"Name": "Steel Maynard"
 	},
 	{
-		"name": "Boris Boyd"
+		"Name": "Boris Boyd"
 	},
 	{
-		"name": "Cyrus Mcgowan"
+		"Name": "Cyrus Mcgowan"
 	},
 	{
-		"name": "Cooper Villarreal"
+		"Name": "Cooper Villarreal"
 	},
 	{
-		"name": "Ignatius Goodman"
+		"Name": "Ignatius Goodman"
 	},
 	{
-		"name": "Abraham Fisher"
+		"Name": "Abraham Fisher"
 	},
 	{
-		"name": "Hu Peterson"
+		"Name": "Hu Peterson"
 	},
 	{
-		"name": "Beau Cervantes"
+		"Name": "Beau Cervantes"
 	},
 	{
-		"name": "Conan Vinson"
+		"Name": "Conan Vinson"
 	},
 	{
-		"name": "Harrison Hood"
+		"Name": "Harrison Hood"
 	},
 	{
-		"name": "Adrian Berg"
+		"Name": "Adrian Berg"
 	},
 	{
-		"name": "Harding Sims"
+		"Name": "Harding Sims"
 	},
 	{
-		"name": "Hedley Torres"
+		"Name": "Hedley Torres"
 	},
 	{
-		"name": "Arthur Wynn"
+		"Name": "Arthur Wynn"
 	},
 	{
-		"name": "Rashad Brooks"
+		"Name": "Rashad Brooks"
 	},
 	{
-		"name": "Alfonso Singleton"
+		"Name": "Alfonso Singleton"
 	},
 	{
-		"name": "Dorian Rojas"
+		"Name": "Dorian Rojas"
 	},
 	{
-		"name": "Leonard Jordan"
+		"Name": "Leonard Jordan"
 	},
 	{
-		"name": "Brenden Keller"
+		"Name": "Brenden Keller"
 	},
 	{
-		"name": "Derek Hodges"
+		"Name": "Derek Hodges"
 	},
 	{
-		"name": "Mannix Livingston"
+		"Name": "Mannix Livingston"
 	},
 	{
-		"name": "Rogan Rowland"
+		"Name": "Rogan Rowland"
 	},
 	{
-		"name": "Caesar Oneill"
+		"Name": "Caesar Oneill"
 	},
 	{
-		"name": "Calvin Marks"
+		"Name": "Calvin Marks"
 	},
 	{
-		"name": "James Sanders"
+		"Name": "James Sanders"
 	},
 	{
-		"name": "Ray Taylor"
+		"Name": "Ray Taylor"
 	},
 	{
-		"name": "Akeem Sutton"
+		"Name": "Akeem Sutton"
 	},
 	{
-		"name": "Andrew Franks"
+		"Name": "Andrew Franks"
 	},
 	{
-		"name": "Levi Avila"
+		"Name": "Levi Avila"
 	},
 	{
-		"name": "Kirk Maynard"
+		"Name": "Kirk Maynard"
 	},
 	{
-		"name": "Harlan Jarvis"
+		"Name": "Harlan Jarvis"
 	},
 	{
-		"name": "Drew Acosta"
+		"Name": "Drew Acosta"
 	},
 	{
-		"name": "Dalton Barker"
+		"Name": "Dalton Barker"
 	},
 	{
-		"name": "Grant Walsh"
+		"Name": "Grant Walsh"
 	},
 	{
-		"name": "Reese Lara"
+		"Name": "Reese Lara"
 	},
 	{
-		"name": "Fritz Vazquez"
+		"Name": "Fritz Vazquez"
 	},
 	{
-		"name": "Axel Barton"
+		"Name": "Axel Barton"
 	},
 	{
-		"name": "Neville Santana"
+		"Name": "Neville Santana"
 	},
 	{
-		"name": "Quinlan Goodwin"
+		"Name": "Quinlan Goodwin"
 	},
 	{
-		"name": "Brock Jones"
+		"Name": "Brock Jones"
 	},
 	{
-		"name": "Orlando Hanson"
+		"Name": "Orlando Hanson"
 	},
 	{
-		"name": "Graham Taylor"
+		"Name": "Graham Taylor"
 	},
 	{
-		"name": "James Sheppard"
+		"Name": "James Sheppard"
 	},
 	{
-		"name": "Brock Clarke"
+		"Name": "Brock Clarke"
 	},
 	{
-		"name": "Amos Johns"
+		"Name": "Amos Johns"
 	},
 	{
-		"name": "Myles Gutierrez"
+		"Name": "Myles Gutierrez"
 	},
 	{
-		"name": "Isaiah Leonard"
+		"Name": "Isaiah Leonard"
 	},
 	{
-		"name": "Hashim Durham"
+		"Name": "Hashim Durham"
 	},
 	{
-		"name": "Vernon Anderson"
+		"Name": "Vernon Anderson"
 	},
 	{
-		"name": "Wallace Kramer"
+		"Name": "Wallace Kramer"
 	},
 	{
-		"name": "Solomon Hansen"
+		"Name": "Solomon Hansen"
 	},
 	{
-		"name": "Burke Matthews"
+		"Name": "Burke Matthews"
 	},
 	{
-		"name": "Addison Schmidt"
+		"Name": "Addison Schmidt"
 	},
 	{
-		"name": "Jerry Pugh"
+		"Name": "Jerry Pugh"
 	},
 	{
-		"name": "Cameron Saunders"
+		"Name": "Cameron Saunders"
 	},
 	{
-		"name": "Judah Newman"
+		"Name": "Judah Newman"
 	},
 	{
-		"name": "Solomon Nash"
+		"Name": "Solomon Nash"
 	},
 	{
-		"name": "Plato Cervantes"
+		"Name": "Plato Cervantes"
 	},
 	{
-		"name": "George Pollard"
+		"Name": "George Pollard"
 	},
 	{
-		"name": "Holmes Sharpe"
+		"Name": "Holmes Sharpe"
 	}
 ]
 

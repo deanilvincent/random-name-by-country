@@ -1,303 +1,303 @@
 const names = [
 	{
-		"name": "Quentin"
+		"Name": "Quentin"
 	},
 	{
-		"name": "Katell"
+		"Name": "Katell"
 	},
 	{
-		"name": "Dorothy"
+		"Name": "Dorothy"
 	},
 	{
-		"name": "Cailin"
+		"Name": "Cailin"
 	},
 	{
-		"name": "Maisie"
+		"Name": "Maisie"
 	},
 	{
-		"name": "Aspen"
+		"Name": "Aspen"
 	},
 	{
-		"name": "Clare"
+		"Name": "Clare"
 	},
 	{
-		"name": "Colette"
+		"Name": "Colette"
 	},
 	{
-		"name": "Beverly"
+		"Name": "Beverly"
 	},
 	{
-		"name": "Whoopi"
+		"Name": "Whoopi"
 	},
 	{
-		"name": "Mara"
+		"Name": "Mara"
 	},
 	{
-		"name": "Dawn"
+		"Name": "Dawn"
 	},
 	{
-		"name": "Hector"
+		"Name": "Hector"
 	},
 	{
-		"name": "Mercedes"
+		"Name": "Mercedes"
 	},
 	{
-		"name": "Mannix"
+		"Name": "Mannix"
 	},
 	{
-		"name": "Colton"
+		"Name": "Colton"
 	},
 	{
-		"name": "Desiree"
+		"Name": "Desiree"
 	},
 	{
-		"name": "Harlan"
+		"Name": "Harlan"
 	},
 	{
-		"name": "Irma"
+		"Name": "Irma"
 	},
 	{
-		"name": "Kaitlin"
+		"Name": "Kaitlin"
 	},
 	{
-		"name": "Drew"
+		"Name": "Drew"
 	},
 	{
-		"name": "Harrison"
+		"Name": "Harrison"
 	},
 	{
-		"name": "David"
+		"Name": "David"
 	},
 	{
-		"name": "Madeson"
+		"Name": "Madeson"
 	},
 	{
-		"name": "Dawn"
+		"Name": "Dawn"
 	},
 	{
-		"name": "Jorden"
+		"Name": "Jorden"
 	},
 	{
-		"name": "Dale"
+		"Name": "Dale"
 	},
 	{
-		"name": "Jessamine"
+		"Name": "Jessamine"
 	},
 	{
-		"name": "Echo"
+		"Name": "Echo"
 	},
 	{
-		"name": "Wyoming"
+		"Name": "Wyoming"
 	},
 	{
-		"name": "Jordan"
+		"Name": "Jordan"
 	},
 	{
-		"name": "Carl"
+		"Name": "Carl"
 	},
 	{
-		"name": "Brynne"
+		"Name": "Brynne"
 	},
 	{
-		"name": "Adrian"
+		"Name": "Adrian"
 	},
 	{
-		"name": "Prescott"
+		"Name": "Prescott"
 	},
 	{
-		"name": "Colton"
+		"Name": "Colton"
 	},
 	{
-		"name": "Thaddeus"
+		"Name": "Thaddeus"
 	},
 	{
-		"name": "Paloma"
+		"Name": "Paloma"
 	},
 	{
-		"name": "Jada"
+		"Name": "Jada"
 	},
 	{
-		"name": "Ahmed"
+		"Name": "Ahmed"
 	},
 	{
-		"name": "Rylee"
+		"Name": "Rylee"
 	},
 	{
-		"name": "Oliver"
+		"Name": "Oliver"
 	},
 	{
-		"name": "Courtney"
+		"Name": "Courtney"
 	},
 	{
-		"name": "Kuame"
+		"Name": "Kuame"
 	},
 	{
-		"name": "Raymond"
+		"Name": "Raymond"
 	},
 	{
-		"name": "Christian"
+		"Name": "Christian"
 	},
 	{
-		"name": "Jayme"
+		"Name": "Jayme"
 	},
 	{
-		"name": "Meghan"
+		"Name": "Meghan"
 	},
 	{
-		"name": "Jada"
+		"Name": "Jada"
 	},
 	{
-		"name": "Tanya"
+		"Name": "Tanya"
 	},
 	{
-		"name": "Daniel"
+		"Name": "Daniel"
 	},
 	{
-		"name": "Kristen"
+		"Name": "Kristen"
 	},
 	{
-		"name": "Vielka"
+		"Name": "Vielka"
 	},
 	{
-		"name": "Judah"
+		"Name": "Judah"
 	},
 	{
-		"name": "Patricia"
+		"Name": "Patricia"
 	},
 	{
-		"name": "Fitzgerald"
+		"Name": "Fitzgerald"
 	},
 	{
-		"name": "Len"
+		"Name": "Len"
 	},
 	{
-		"name": "Noah"
+		"Name": "Noah"
 	},
 	{
-		"name": "Wyoming"
+		"Name": "Wyoming"
 	},
 	{
-		"name": "Olga"
+		"Name": "Olga"
 	},
 	{
-		"name": "Channing"
+		"Name": "Channing"
 	},
 	{
-		"name": "Anne"
+		"Name": "Anne"
 	},
 	{
-		"name": "Adrienne"
+		"Name": "Adrienne"
 	},
 	{
-		"name": "Vladimir"
+		"Name": "Vladimir"
 	},
 	{
-		"name": "Lee"
+		"Name": "Lee"
 	},
 	{
-		"name": "Roanna"
+		"Name": "Roanna"
 	},
 	{
-		"name": "Molly"
+		"Name": "Molly"
 	},
 	{
-		"name": "Eliana"
+		"Name": "Eliana"
 	},
 	{
-		"name": "Rana"
+		"Name": "Rana"
 	},
 	{
-		"name": "Sage"
+		"Name": "Sage"
 	},
 	{
-		"name": "Eleanor"
+		"Name": "Eleanor"
 	},
 	{
-		"name": "Cole"
+		"Name": "Cole"
 	},
 	{
-		"name": "Ishmael"
+		"Name": "Ishmael"
 	},
 	{
-		"name": "Britanni"
+		"Name": "Britanni"
 	},
 	{
-		"name": "Madonna"
+		"Name": "Madonna"
 	},
 	{
-		"name": "Aquila"
+		"Name": "Aquila"
 	},
 	{
-		"name": "Quynn"
+		"Name": "Quynn"
 	},
 	{
-		"name": "Timon"
+		"Name": "Timon"
 	},
 	{
-		"name": "Vernon"
+		"Name": "Vernon"
 	},
 	{
-		"name": "Patricia"
+		"Name": "Patricia"
 	},
 	{
-		"name": "Lance"
+		"Name": "Lance"
 	},
 	{
-		"name": "Odette"
+		"Name": "Odette"
 	},
 	{
-		"name": "Chase"
+		"Name": "Chase"
 	},
 	{
-		"name": "Megan"
+		"Name": "Megan"
 	},
 	{
-		"name": "Emerald"
+		"Name": "Emerald"
 	},
 	{
-		"name": "Martin"
+		"Name": "Martin"
 	},
 	{
-		"name": "Elmo"
+		"Name": "Elmo"
 	},
 	{
-		"name": "Rahim"
+		"Name": "Rahim"
 	},
 	{
-		"name": "Calista"
+		"Name": "Calista"
 	},
 	{
-		"name": "Kyra"
+		"Name": "Kyra"
 	},
 	{
-		"name": "Kenneth"
+		"Name": "Kenneth"
 	},
 	{
-		"name": "Joseph"
+		"Name": "Joseph"
 	},
 	{
-		"name": "Duncan"
+		"Name": "Duncan"
 	},
 	{
-		"name": "Caldwell"
+		"Name": "Caldwell"
 	},
 	{
-		"name": "Hunter"
+		"Name": "Hunter"
 	},
 	{
-		"name": "Leo"
+		"Name": "Leo"
 	},
 	{
-		"name": "Ruth"
+		"Name": "Ruth"
 	},
 	{
-		"name": "Xandra"
+		"Name": "Xandra"
 	},
 	{
-		"name": "Bo"
+		"Name": "Bo"
 	},
 	{
-		"name": "Wallace"
+		"Name": "Wallace"
 	}
 ]
 

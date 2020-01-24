@@ -1,303 +1,303 @@
 const names = [
 	{
-		"name": "Petersen"
+		"Name": "Petersen"
 	},
 	{
-		"name": "Nolan"
+		"Name": "Nolan"
 	},
 	{
-		"name": "Lawson"
+		"Name": "Lawson"
 	},
 	{
-		"name": "Horne"
+		"Name": "Horne"
 	},
 	{
-		"name": "Stewart"
+		"Name": "Stewart"
 	},
 	{
-		"name": "Spence"
+		"Name": "Spence"
 	},
 	{
-		"name": "Kirby"
+		"Name": "Kirby"
 	},
 	{
-		"name": "Clay"
+		"Name": "Clay"
 	},
 	{
-		"name": "Randall"
+		"Name": "Randall"
 	},
 	{
-		"name": "Mcleod"
+		"Name": "Mcleod"
 	},
 	{
-		"name": "Stanton"
+		"Name": "Stanton"
 	},
 	{
-		"name": "Woodard"
+		"Name": "Woodard"
 	},
 	{
-		"name": "Livingston"
+		"Name": "Livingston"
 	},
 	{
-		"name": "Brennan"
+		"Name": "Brennan"
 	},
 	{
-		"name": "Snow"
+		"Name": "Snow"
 	},
 	{
-		"name": "Wolfe"
+		"Name": "Wolfe"
 	},
 	{
-		"name": "Richardson"
+		"Name": "Richardson"
 	},
 	{
-		"name": "Morrison"
+		"Name": "Morrison"
 	},
 	{
-		"name": "Mccray"
+		"Name": "Mccray"
 	},
 	{
-		"name": "Ryan"
+		"Name": "Ryan"
 	},
 	{
-		"name": "Pace"
+		"Name": "Pace"
 	},
 	{
-		"name": "Wright"
+		"Name": "Wright"
 	},
 	{
-		"name": "Rowland"
+		"Name": "Rowland"
 	},
 	{
-		"name": "Pruitt"
+		"Name": "Pruitt"
 	},
 	{
-		"name": "Mccormick"
+		"Name": "Mccormick"
 	},
 	{
-		"name": "Hammond"
+		"Name": "Hammond"
 	},
 	{
-		"name": "Kirby"
+		"Name": "Kirby"
 	},
 	{
-		"name": "Suarez"
+		"Name": "Suarez"
 	},
 	{
-		"name": "Matthews"
+		"Name": "Matthews"
 	},
 	{
-		"name": "Kirkland"
+		"Name": "Kirkland"
 	},
 	{
-		"name": "Klein"
+		"Name": "Klein"
 	},
 	{
-		"name": "Melton"
+		"Name": "Melton"
 	},
 	{
-		"name": "Trevino"
+		"Name": "Trevino"
 	},
 	{
-		"name": "Keller"
+		"Name": "Keller"
 	},
 	{
-		"name": "Wilcox"
+		"Name": "Wilcox"
 	},
 	{
-		"name": "Perry"
+		"Name": "Perry"
 	},
 	{
-		"name": "Snider"
+		"Name": "Snider"
 	},
 	{
-		"name": "Torres"
+		"Name": "Torres"
 	},
 	{
-		"name": "Dunlap"
+		"Name": "Dunlap"
 	},
 	{
-		"name": "Fleming"
+		"Name": "Fleming"
 	},
 	{
-		"name": "Goff"
+		"Name": "Goff"
 	},
 	{
-		"name": "Osborne"
+		"Name": "Osborne"
 	},
 	{
-		"name": "Fernandez"
+		"Name": "Fernandez"
 	},
 	{
-		"name": "Pacheco"
+		"Name": "Pacheco"
 	},
 	{
-		"name": "Ochoa"
+		"Name": "Ochoa"
 	},
 	{
-		"name": "Henderson"
+		"Name": "Henderson"
 	},
 	{
-		"name": "Gould"
+		"Name": "Gould"
 	},
 	{
-		"name": "Duncan"
+		"Name": "Duncan"
 	},
 	{
-		"name": "Frazier"
+		"Name": "Frazier"
 	},
 	{
-		"name": "Norris"
+		"Name": "Norris"
 	},
 	{
-		"name": "Holt"
+		"Name": "Holt"
 	},
 	{
-		"name": "Mayer"
+		"Name": "Mayer"
 	},
 	{
-		"name": "Branch"
+		"Name": "Branch"
 	},
 	{
-		"name": "Horne"
+		"Name": "Horne"
 	},
 	{
-		"name": "Pratt"
+		"Name": "Pratt"
 	},
 	{
-		"name": "Singleton"
+		"Name": "Singleton"
 	},
 	{
-		"name": "Nicholson"
+		"Name": "Nicholson"
 	},
 	{
-		"name": "Francis"
+		"Name": "Francis"
 	},
 	{
-		"name": "Singleton"
+		"Name": "Singleton"
 	},
 	{
-		"name": "Walters"
+		"Name": "Walters"
 	},
 	{
-		"name": "Valencia"
+		"Name": "Valencia"
 	},
 	{
-		"name": "Chang"
+		"Name": "Chang"
 	},
 	{
-		"name": "Cruz"
+		"Name": "Cruz"
 	},
 	{
-		"name": "Cooper"
+		"Name": "Cooper"
 	},
 	{
-		"name": "Colon"
+		"Name": "Colon"
 	},
 	{
-		"name": "Barber"
+		"Name": "Barber"
 	},
 	{
-		"name": "Sharp"
+		"Name": "Sharp"
 	},
 	{
-		"name": "Booth"
+		"Name": "Booth"
 	},
 	{
-		"name": "Nolan"
+		"Name": "Nolan"
 	},
 	{
-		"name": "Mcbride"
+		"Name": "Mcbride"
 	},
 	{
-		"name": "Coleman"
+		"Name": "Coleman"
 	},
 	{
-		"name": "Hopper"
+		"Name": "Hopper"
 	},
 	{
-		"name": "Mcfadden"
+		"Name": "Mcfadden"
 	},
 	{
-		"name": "Hess"
+		"Name": "Hess"
 	},
 	{
-		"name": "Moss"
+		"Name": "Moss"
 	},
 	{
-		"name": "Eaton"
+		"Name": "Eaton"
 	},
 	{
-		"name": "Lambert"
+		"Name": "Lambert"
 	},
 	{
-		"name": "Cain"
+		"Name": "Cain"
 	},
 	{
-		"name": "Holman"
+		"Name": "Holman"
 	},
 	{
-		"name": "Jenkins"
+		"Name": "Jenkins"
 	},
 	{
-		"name": "Simon"
+		"Name": "Simon"
 	},
 	{
-		"name": "Kane"
+		"Name": "Kane"
 	},
 	{
-		"name": "Ortega"
+		"Name": "Ortega"
 	},
 	{
-		"name": "Tyson"
+		"Name": "Tyson"
 	},
 	{
-		"name": "Weber"
+		"Name": "Weber"
 	},
 	{
-		"name": "Hunt"
+		"Name": "Hunt"
 	},
 	{
-		"name": "Dotson"
+		"Name": "Dotson"
 	},
 	{
-		"name": "Mathews"
+		"Name": "Mathews"
 	},
 	{
-		"name": "Bond"
+		"Name": "Bond"
 	},
 	{
-		"name": "Price"
+		"Name": "Price"
 	},
 	{
-		"name": "Witt"
+		"Name": "Witt"
 	},
 	{
-		"name": "Guerra"
+		"Name": "Guerra"
 	},
 	{
-		"name": "Lopez"
+		"Name": "Lopez"
 	},
 	{
-		"name": "Velazquez"
+		"Name": "Velazquez"
 	},
 	{
-		"name": "Russo"
+		"Name": "Russo"
 	},
 	{
-		"name": "Vang"
+		"Name": "Vang"
 	},
 	{
-		"name": "Norris"
+		"Name": "Norris"
 	},
 	{
-		"name": "Clark"
+		"Name": "Clark"
 	},
 	{
-		"name": "Harris"
+		"Name": "Harris"
 	},
 	{
-		"name": "Fulton"
+		"Name": "Fulton"
 	}
 ]
 

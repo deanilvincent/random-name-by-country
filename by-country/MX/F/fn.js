@@ -1,303 +1,303 @@
 const names = [
 	{
-		" name": "Inga"
+		" Name": "Inga"
 	},
 	{
-		" name": "Galena"
+		" Name": "Galena"
 	},
 	{
-		" name": "Dakota"
+		" Name": "Dakota"
 	},
 	{
-		" name": "Aurora"
+		" Name": "Aurora"
 	},
 	{
-		" name": "Lavinia"
+		" Name": "Lavinia"
 	},
 	{
-		" name": "Janna"
+		" Name": "Janna"
 	},
 	{
-		" name": "Karyn"
+		" Name": "Karyn"
 	},
 	{
-		" name": "Shelley"
+		" Name": "Shelley"
 	},
 	{
-		" name": "Sigourney"
+		" Name": "Sigourney"
 	},
 	{
-		" name": "Hanae"
+		" Name": "Hanae"
 	},
 	{
-		" name": "Brenda"
+		" Name": "Brenda"
 	},
 	{
-		" name": "Chantale"
+		" Name": "Chantale"
 	},
 	{
-		" name": "Celeste"
+		" Name": "Celeste"
 	},
 	{
-		" name": "Carly"
+		" Name": "Carly"
 	},
 	{
-		" name": "Jocelyn"
+		" Name": "Jocelyn"
 	},
 	{
-		" name": "Quynn"
+		" Name": "Quynn"
 	},
 	{
-		" name": "Daphne"
+		" Name": "Daphne"
 	},
 	{
-		" name": "Shana"
+		" Name": "Shana"
 	},
 	{
-		" name": "Cally"
+		" Name": "Cally"
 	},
 	{
-		" name": "Ora"
+		" Name": "Ora"
 	},
 	{
-		" name": "Kiayada"
+		" Name": "Kiayada"
 	},
 	{
-		" name": "Florence"
+		" Name": "Florence"
 	},
 	{
-		" name": "Megan"
+		" Name": "Megan"
 	},
 	{
-		" name": "Germaine"
+		" Name": "Germaine"
 	},
 	{
-		" name": "Phoebe"
+		" Name": "Phoebe"
 	},
 	{
-		" name": "Melissa"
+		" Name": "Melissa"
 	},
 	{
-		" name": "Tanisha"
+		" Name": "Tanisha"
 	},
 	{
-		" name": "Sonya"
+		" Name": "Sonya"
 	},
 	{
-		" name": "Bethany"
+		" Name": "Bethany"
 	},
 	{
-		" name": "Anika"
+		" Name": "Anika"
 	},
 	{
-		" name": "Linda"
+		" Name": "Linda"
 	},
 	{
-		" name": "Sonya"
+		" Name": "Sonya"
 	},
 	{
-		" name": "Wanda"
+		" Name": "Wanda"
 	},
 	{
-		" name": "Kirby"
+		" Name": "Kirby"
 	},
 	{
-		" name": "Nina"
+		" Name": "Nina"
 	},
 	{
-		" name": "Lana"
+		" Name": "Lana"
 	},
 	{
-		" name": "Clementine"
+		" Name": "Clementine"
 	},
 	{
-		" name": "Riley"
+		" Name": "Riley"
 	},
 	{
-		" name": "Carla"
+		" Name": "Carla"
 	},
 	{
-		" name": "Ebony"
+		" Name": "Ebony"
 	},
 	{
-		" name": "Jessica"
+		" Name": "Jessica"
 	},
 	{
-		" name": "Lisandra"
+		" Name": "Lisandra"
 	},
 	{
-		" name": "Tara"
+		" Name": "Tara"
 	},
 	{
-		" name": "Wendy"
+		" Name": "Wendy"
 	},
 	{
-		" name": "Adria"
+		" Name": "Adria"
 	},
 	{
-		" name": "Brittany"
+		" Name": "Brittany"
 	},
 	{
-		" name": "Angela"
+		" Name": "Angela"
 	},
 	{
-		" name": "Galena"
+		" Name": "Galena"
 	},
 	{
-		" name": "Leilani"
+		" Name": "Leilani"
 	},
 	{
-		" name": "Liberty"
+		" Name": "Liberty"
 	},
 	{
-		" name": "Kiara"
+		" Name": "Kiara"
 	},
 	{
-		" name": "Sophia"
+		" Name": "Sophia"
 	},
 	{
-		" name": "Audrey"
+		" Name": "Audrey"
 	},
 	{
-		" name": "Isadora"
+		" Name": "Isadora"
 	},
 	{
-		" name": "Naida"
+		" Name": "Naida"
 	},
 	{
-		" name": "Fallon"
+		" Name": "Fallon"
 	},
 	{
-		" name": "Athena"
+		" Name": "Athena"
 	},
 	{
-		" name": "Xandra"
+		" Name": "Xandra"
 	},
 	{
-		" name": "Vielka"
+		" Name": "Vielka"
 	},
 	{
-		" name": "Gwendolyn"
+		" Name": "Gwendolyn"
 	},
 	{
-		" name": "Marah"
+		" Name": "Marah"
 	},
 	{
-		" name": "Bianca"
+		" Name": "Bianca"
 	},
 	{
-		" name": "Pandora"
+		" Name": "Pandora"
 	},
 	{
-		" name": "Neve"
+		" Name": "Neve"
 	},
 	{
-		" name": "Calista"
+		" Name": "Calista"
 	},
 	{
-		" name": "Janna"
+		" Name": "Janna"
 	},
 	{
-		" name": "Roary"
+		" Name": "Roary"
 	},
 	{
-		" name": "Lucy"
+		" Name": "Lucy"
 	},
 	{
-		" name": "Lacey"
+		" Name": "Lacey"
 	},
 	{
-		" name": "Ila"
+		" Name": "Ila"
 	},
 	{
-		" name": "Rebekah"
+		" Name": "Rebekah"
 	},
 	{
-		" name": "Reagan"
+		" Name": "Reagan"
 	},
 	{
-		" name": "Gloria"
+		" Name": "Gloria"
 	},
 	{
-		" name": "Signe"
+		" Name": "Signe"
 	},
 	{
-		" name": "Stacey"
+		" Name": "Stacey"
 	},
 	{
-		" name": "Dora"
+		" Name": "Dora"
 	},
 	{
-		" name": "Clio"
+		" Name": "Clio"
 	},
 	{
-		" name": "MacKenzie"
+		" Name": "MacKenzie"
 	},
 	{
-		" name": "Ainsley"
+		" Name": "Ainsley"
 	},
 	{
-		" name": "Bell"
+		" Name": "Bell"
 	},
 	{
-		" name": "Melissa"
+		" Name": "Melissa"
 	},
 	{
-		" name": "Josephine"
+		" Name": "Josephine"
 	},
 	{
-		" name": "Nora"
+		" Name": "Nora"
 	},
 	{
-		" name": "Hayley"
+		" Name": "Hayley"
 	},
 	{
-		" name": "Karly"
+		" Name": "Karly"
 	},
 	{
-		" name": "Melodie"
+		" Name": "Melodie"
 	},
 	{
-		" name": "Kathleen"
+		" Name": "Kathleen"
 	},
 	{
-		" name": "Shelly"
+		" Name": "Shelly"
 	},
 	{
-		" name": "Fleur"
+		" Name": "Fleur"
 	},
 	{
-		" name": "Mara"
+		" Name": "Mara"
 	},
 	{
-		" name": "Chastity"
+		" Name": "Chastity"
 	},
 	{
-		" name": "Kiona"
+		" Name": "Kiona"
 	},
 	{
-		" name": "Samantha"
+		" Name": "Samantha"
 	},
 	{
-		" name": "Isabelle"
+		" Name": "Isabelle"
 	},
 	{
-		" name": "Yeo"
+		" Name": "Yeo"
 	},
 	{
-		" name": "Lana"
+		" Name": "Lana"
 	},
 	{
-		" name": "Nayda"
+		" Name": "Nayda"
 	},
 	{
-		" name": "Madeline"
+		" Name": "Madeline"
 	},
 	{
-		" name": "Maisie"
+		" Name": "Maisie"
 	},
 	{
-		" name": "April"
+		" Name": "April"
 	}
 ]
 

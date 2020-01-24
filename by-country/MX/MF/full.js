@@ -1,303 +1,303 @@
 const names = [
 	{
-		"name": "Mark Wolf"
+		"Name": "Mark Wolf"
 	},
 	{
-		"name": "Joel Suarez"
+		"Name": "Joel Suarez"
 	},
 	{
-		"name": "Chava Elliott"
+		"Name": "Chava Elliott"
 	},
 	{
-		"name": "Hollee Langley"
+		"Name": "Hollee Langley"
 	},
 	{
-		"name": "Jared Holder"
+		"Name": "Jared Holder"
 	},
 	{
-		"name": "Zahir Santiago"
+		"Name": "Zahir Santiago"
 	},
 	{
-		"name": "Raphael Snyder"
+		"Name": "Raphael Snyder"
 	},
 	{
-		"name": "Gil Workman"
+		"Name": "Gil Workman"
 	},
 	{
-		"name": "Hayes Aguirre"
+		"Name": "Hayes Aguirre"
 	},
 	{
-		"name": "Iona Rodgers"
+		"Name": "Iona Rodgers"
 	},
 	{
-		"name": "Regan Wall"
+		"Name": "Regan Wall"
 	},
 	{
-		"name": "Caleb Nicholson"
+		"Name": "Caleb Nicholson"
 	},
 	{
-		"name": "Serina Gilmore"
+		"Name": "Serina Gilmore"
 	},
 	{
-		"name": "Amanda Johns"
+		"Name": "Amanda Johns"
 	},
 	{
-		"name": "Fay Rollins"
+		"Name": "Fay Rollins"
 	},
 	{
-		"name": "Jin Clements"
+		"Name": "Jin Clements"
 	},
 	{
-		"name": "Brianna Villarreal"
+		"Name": "Brianna Villarreal"
 	},
 	{
-		"name": "Kitra Guerra"
+		"Name": "Kitra Guerra"
 	},
 	{
-		"name": "Lani Vaughan"
+		"Name": "Lani Vaughan"
 	},
 	{
-		"name": "Faith Davis"
+		"Name": "Faith Davis"
 	},
 	{
-		"name": "Azalia Callahan"
+		"Name": "Azalia Callahan"
 	},
 	{
-		"name": "Sage Wood"
+		"Name": "Sage Wood"
 	},
 	{
-		"name": "Garrett Baird"
+		"Name": "Garrett Baird"
 	},
 	{
-		"name": "Zia Bruce"
+		"Name": "Zia Bruce"
 	},
 	{
-		"name": "Holly Cross"
+		"Name": "Holly Cross"
 	},
 	{
-		"name": "India Scott"
+		"Name": "India Scott"
 	},
 	{
-		"name": "Drake Hudson"
+		"Name": "Drake Hudson"
 	},
 	{
-		"name": "Wendy Fowler"
+		"Name": "Wendy Fowler"
 	},
 	{
-		"name": "Garrison Mcdowell"
+		"Name": "Garrison Mcdowell"
 	},
 	{
-		"name": "Jana Meadows"
+		"Name": "Jana Meadows"
 	},
 	{
-		"name": "Aline Fuller"
+		"Name": "Aline Fuller"
 	},
 	{
-		"name": "Quynn Bowman"
+		"Name": "Quynn Bowman"
 	},
 	{
-		"name": "Rahim Santana"
+		"Name": "Rahim Santana"
 	},
 	{
-		"name": "Abraham Christian"
+		"Name": "Abraham Christian"
 	},
 	{
-		"name": "Quyn Blankenship"
+		"Name": "Quyn Blankenship"
 	},
 	{
-		"name": "Fay Frederick"
+		"Name": "Fay Frederick"
 	},
 	{
-		"name": "Kevyn Cochran"
+		"Name": "Kevyn Cochran"
 	},
 	{
-		"name": "Shaeleigh Vazquez"
+		"Name": "Shaeleigh Vazquez"
 	},
 	{
-		"name": "Uta Curry"
+		"Name": "Uta Curry"
 	},
 	{
-		"name": "Lillith Charles"
+		"Name": "Lillith Charles"
 	},
 	{
-		"name": "Levi Beard"
+		"Name": "Levi Beard"
 	},
 	{
-		"name": "Karina Parrish"
+		"Name": "Karina Parrish"
 	},
 	{
-		"name": "Justin Rios"
+		"Name": "Justin Rios"
 	},
 	{
-		"name": "Jillian Emerson"
+		"Name": "Jillian Emerson"
 	},
 	{
-		"name": "Jasper Cohen"
+		"Name": "Jasper Cohen"
 	},
 	{
-		"name": "Carissa Stanley"
+		"Name": "Carissa Stanley"
 	},
 	{
-		"name": "Zorita Santos"
+		"Name": "Zorita Santos"
 	},
 	{
-		"name": "Acton Bonner"
+		"Name": "Acton Bonner"
 	},
 	{
-		"name": "Mason Brock"
+		"Name": "Mason Brock"
 	},
 	{
-		"name": "Grady Landry"
+		"Name": "Grady Landry"
 	},
 	{
-		"name": "Madaline Vang"
+		"Name": "Madaline Vang"
 	},
 	{
-		"name": "Laith Russo"
+		"Name": "Laith Russo"
 	},
 	{
-		"name": "Cyrus Ruiz"
+		"Name": "Cyrus Ruiz"
 	},
 	{
-		"name": "Tashya Weaver"
+		"Name": "Tashya Weaver"
 	},
 	{
-		"name": "Adam Santiago"
+		"Name": "Adam Santiago"
 	},
 	{
-		"name": "Carly Rocha"
+		"Name": "Carly Rocha"
 	},
 	{
-		"name": "Aristotle Franco"
+		"Name": "Aristotle Franco"
 	},
 	{
-		"name": "Jermaine Quinn"
+		"Name": "Jermaine Quinn"
 	},
 	{
-		"name": "Nathan Hahn"
+		"Name": "Nathan Hahn"
 	},
 	{
-		"name": "Amal Sellers"
+		"Name": "Amal Sellers"
 	},
 	{
-		"name": "Leo Hogan"
+		"Name": "Leo Hogan"
 	},
 	{
-		"name": "Quentin Dodson"
+		"Name": "Quentin Dodson"
 	},
 	{
-		"name": "Ria Burgess"
+		"Name": "Ria Burgess"
 	},
 	{
-		"name": "Yolanda Price"
+		"Name": "Yolanda Price"
 	},
 	{
-		"name": "Ali Benjamin"
+		"Name": "Ali Benjamin"
 	},
 	{
-		"name": "Alfonso Montoya"
+		"Name": "Alfonso Montoya"
 	},
 	{
-		"name": "Brenden Wiley"
+		"Name": "Brenden Wiley"
 	},
 	{
-		"name": "Steven Castaneda"
+		"Name": "Steven Castaneda"
 	},
 	{
-		"name": "Halla Hendrix"
+		"Name": "Halla Hendrix"
 	},
 	{
-		"name": "Basia Mason"
+		"Name": "Basia Mason"
 	},
 	{
-		"name": "Matthew Lancaster"
+		"Name": "Matthew Lancaster"
 	},
 	{
-		"name": "Herman Finley"
+		"Name": "Herman Finley"
 	},
 	{
-		"name": "Ila Fletcher"
+		"Name": "Ila Fletcher"
 	},
 	{
-		"name": "Gray Roberson"
+		"Name": "Gray Roberson"
 	},
 	{
-		"name": "Maxine Hendricks"
+		"Name": "Maxine Hendricks"
 	},
 	{
-		"name": "Lionel Rios"
+		"Name": "Lionel Rios"
 	},
 	{
-		"name": "Evangeline Maxwell"
+		"Name": "Evangeline Maxwell"
 	},
 	{
-		"name": "Alec Simpson"
+		"Name": "Alec Simpson"
 	},
 	{
-		"name": "Boris Davenport"
+		"Name": "Boris Davenport"
 	},
 	{
-		"name": "Scarlet Cline"
+		"Name": "Scarlet Cline"
 	},
 	{
-		"name": "Kaden Davis"
+		"Name": "Kaden Davis"
 	},
 	{
-		"name": "Macy Lowery"
+		"Name": "Macy Lowery"
 	},
 	{
-		"name": "Wynter Hopper"
+		"Name": "Wynter Hopper"
 	},
 	{
-		"name": "Tyler Wagner"
+		"Name": "Tyler Wagner"
 	},
 	{
-		"name": "Joel Bates"
+		"Name": "Joel Bates"
 	},
 	{
-		"name": "Melodie Hughes"
+		"Name": "Melodie Hughes"
 	},
 	{
-		"name": "Salvador Harrington"
+		"Name": "Salvador Harrington"
 	},
 	{
-		"name": "Alec Alexander"
+		"Name": "Alec Alexander"
 	},
 	{
-		"name": "Keefe Morse"
+		"Name": "Keefe Morse"
 	},
 	{
-		"name": "Kylee Chaney"
+		"Name": "Kylee Chaney"
 	},
 	{
-		"name": "Odessa Aguirre"
+		"Name": "Odessa Aguirre"
 	},
 	{
-		"name": "Amy Walters"
+		"Name": "Amy Walters"
 	},
 	{
-		"name": "Yvette Rutledge"
+		"Name": "Yvette Rutledge"
 	},
 	{
-		"name": "Gillian Ingram"
+		"Name": "Gillian Ingram"
 	},
 	{
-		"name": "Anjolie Bright"
+		"Name": "Anjolie Bright"
 	},
 	{
-		"name": "Skyler Phelps"
+		"Name": "Skyler Phelps"
 	},
 	{
-		"name": "Aidan Parsons"
+		"Name": "Aidan Parsons"
 	},
 	{
-		"name": "Beau Schultz"
+		"Name": "Beau Schultz"
 	},
 	{
-		"name": "Kiara Golden"
+		"Name": "Kiara Golden"
 	},
 	{
-		"name": "Hyatt Herman"
+		"Name": "Hyatt Herman"
 	}
 ]
 

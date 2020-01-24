@@ -1,303 +1,303 @@
 const names = [
 	{
-		"name": "Shoshana Valdez"
+		"Name": "Shoshana Valdez"
 	},
 	{
-		"name": "Mariko Kennedy"
+		"Name": "Mariko Kennedy"
 	},
 	{
-		"name": "Lani Montoya"
+		"Name": "Lani Montoya"
 	},
 	{
-		"name": "Mari Bullock"
+		"Name": "Mari Bullock"
 	},
 	{
-		"name": "Anika Underwood"
+		"Name": "Anika Underwood"
 	},
 	{
-		"name": "Raya Bishop"
+		"Name": "Raya Bishop"
 	},
 	{
-		"name": "Frances Golden"
+		"Name": "Frances Golden"
 	},
 	{
-		"name": "Hadley Humphrey"
+		"Name": "Hadley Humphrey"
 	},
 	{
-		"name": "Barbara Bates"
+		"Name": "Barbara Bates"
 	},
 	{
-		"name": "Giselle Wilkins"
+		"Name": "Giselle Wilkins"
 	},
 	{
-		"name": "Desirae Snyder"
+		"Name": "Desirae Snyder"
 	},
 	{
-		"name": "Kiayada Hansen"
+		"Name": "Kiayada Hansen"
 	},
 	{
-		"name": "Naomi Mcclure"
+		"Name": "Naomi Mcclure"
 	},
 	{
-		"name": "Lareina Hicks"
+		"Name": "Lareina Hicks"
 	},
 	{
-		"name": "Fay Sears"
+		"Name": "Fay Sears"
 	},
 	{
-		"name": "Molly Lara"
+		"Name": "Molly Lara"
 	},
 	{
-		"name": "Serena Mccormick"
+		"Name": "Serena Mccormick"
 	},
 	{
-		"name": "Autumn Hudson"
+		"Name": "Autumn Hudson"
 	},
 	{
-		"name": "Keiko Klein"
+		"Name": "Keiko Klein"
 	},
 	{
-		"name": "Deanna Wise"
+		"Name": "Deanna Wise"
 	},
 	{
-		"name": "Ursa Wheeler"
+		"Name": "Ursa Wheeler"
 	},
 	{
-		"name": "Sheila Martin"
+		"Name": "Sheila Martin"
 	},
 	{
-		"name": "Eliana Boone"
+		"Name": "Eliana Boone"
 	},
 	{
-		"name": "Brielle Barrera"
+		"Name": "Brielle Barrera"
 	},
 	{
-		"name": "Pearl Christian"
+		"Name": "Pearl Christian"
 	},
 	{
-		"name": "Illana Merrill"
+		"Name": "Illana Merrill"
 	},
 	{
-		"name": "Taylor Dillard"
+		"Name": "Taylor Dillard"
 	},
 	{
-		"name": "Kaitlin Moreno"
+		"Name": "Kaitlin Moreno"
 	},
 	{
-		"name": "Alana Herman"
+		"Name": "Alana Herman"
 	},
 	{
-		"name": "Gay Allison"
+		"Name": "Gay Allison"
 	},
 	{
-		"name": "Laurel Anthony"
+		"Name": "Laurel Anthony"
 	},
 	{
-		"name": "Halla Ferguson"
+		"Name": "Halla Ferguson"
 	},
 	{
-		"name": "Blythe Reeves"
+		"Name": "Blythe Reeves"
 	},
 	{
-		"name": "Whitney Santos"
+		"Name": "Whitney Santos"
 	},
 	{
-		"name": "Kitra Vasquez"
+		"Name": "Kitra Vasquez"
 	},
 	{
-		"name": "Summer Burton"
+		"Name": "Summer Burton"
 	},
 	{
-		"name": "Dai Walter"
+		"Name": "Dai Walter"
 	},
 	{
-		"name": "Martina Hubbard"
+		"Name": "Martina Hubbard"
 	},
 	{
-		"name": "Kelly Bradshaw"
+		"Name": "Kelly Bradshaw"
 	},
 	{
-		"name": "April Beasley"
+		"Name": "April Beasley"
 	},
 	{
-		"name": "Ivory Fry"
+		"Name": "Ivory Fry"
 	},
 	{
-		"name": "Xerxes Copeland"
+		"Name": "Xerxes Copeland"
 	},
 	{
-		"name": "Sage Burch"
+		"Name": "Sage Burch"
 	},
 	{
-		"name": "Quon Haney"
+		"Name": "Quon Haney"
 	},
 	{
-		"name": "Hedy Spencer"
+		"Name": "Hedy Spencer"
 	},
 	{
-		"name": "Beverly Reeves"
+		"Name": "Beverly Reeves"
 	},
 	{
-		"name": "Idona Hamilton"
+		"Name": "Idona Hamilton"
 	},
 	{
-		"name": "Summer Lawson"
+		"Name": "Summer Lawson"
 	},
 	{
-		"name": "Myra Mckinney"
+		"Name": "Myra Mckinney"
 	},
 	{
-		"name": "Petra Schwartz"
+		"Name": "Petra Schwartz"
 	},
 	{
-		"name": "Phyllis Crawford"
+		"Name": "Phyllis Crawford"
 	},
 	{
-		"name": "Judith Thomas"
+		"Name": "Judith Thomas"
 	},
 	{
-		"name": "Halla Schultz"
+		"Name": "Halla Schultz"
 	},
 	{
-		"name": "Mechelle Cunningham"
+		"Name": "Mechelle Cunningham"
 	},
 	{
-		"name": "Maggie Spence"
+		"Name": "Maggie Spence"
 	},
 	{
-		"name": "Nevada Gibson"
+		"Name": "Nevada Gibson"
 	},
 	{
-		"name": "Darryl Holland"
+		"Name": "Darryl Holland"
 	},
 	{
-		"name": "Nell Bowman"
+		"Name": "Nell Bowman"
 	},
 	{
-		"name": "Hadley Bradford"
+		"Name": "Hadley Bradford"
 	},
 	{
-		"name": "Maggy Mccoy"
+		"Name": "Maggy Mccoy"
 	},
 	{
-		"name": "Gay Beard"
+		"Name": "Gay Beard"
 	},
 	{
-		"name": "Rebekah Myers"
+		"Name": "Rebekah Myers"
 	},
 	{
-		"name": "Dora Bauer"
+		"Name": "Dora Bauer"
 	},
 	{
-		"name": "Unity Casey"
+		"Name": "Unity Casey"
 	},
 	{
-		"name": "Shannon Knight"
+		"Name": "Shannon Knight"
 	},
 	{
-		"name": "Keelie George"
+		"Name": "Keelie George"
 	},
 	{
-		"name": "Desiree Giles"
+		"Name": "Desiree Giles"
 	},
 	{
-		"name": "April Wells"
+		"Name": "April Wells"
 	},
 	{
-		"name": "April Lynn"
+		"Name": "April Lynn"
 	},
 	{
-		"name": "Camille Pearson"
+		"Name": "Camille Pearson"
 	},
 	{
-		"name": "Keiko Stark"
+		"Name": "Keiko Stark"
 	},
 	{
-		"name": "Keelie Holland"
+		"Name": "Keelie Holland"
 	},
 	{
-		"name": "Bryar Harvey"
+		"Name": "Bryar Harvey"
 	},
 	{
-		"name": "Hanna Mayo"
+		"Name": "Hanna Mayo"
 	},
 	{
-		"name": "Maile Bowers"
+		"Name": "Maile Bowers"
 	},
 	{
-		"name": "Isabella Shields"
+		"Name": "Isabella Shields"
 	},
 	{
-		"name": "Raya Austin"
+		"Name": "Raya Austin"
 	},
 	{
-		"name": "Meghan Brooks"
+		"Name": "Meghan Brooks"
 	},
 	{
-		"name": "Zorita Wise"
+		"Name": "Zorita Wise"
 	},
 	{
-		"name": "Blair Hodge"
+		"Name": "Blair Hodge"
 	},
 	{
-		"name": "Sydnee Frazier"
+		"Name": "Sydnee Frazier"
 	},
 	{
-		"name": "Heather Franks"
+		"Name": "Heather Franks"
 	},
 	{
-		"name": "Farrah Stephens"
+		"Name": "Farrah Stephens"
 	},
 	{
-		"name": "Dai Mcneil"
+		"Name": "Dai Mcneil"
 	},
 	{
-		"name": "Frances Lynn"
+		"Name": "Frances Lynn"
 	},
 	{
-		"name": "Tatiana Joyner"
+		"Name": "Tatiana Joyner"
 	},
 	{
-		"name": "Shoshana Wolf"
+		"Name": "Shoshana Wolf"
 	},
 	{
-		"name": "Molly Phelps"
+		"Name": "Molly Phelps"
 	},
 	{
-		"name": "Joy Gray"
+		"Name": "Joy Gray"
 	},
 	{
-		"name": "Sandra Mercado"
+		"Name": "Sandra Mercado"
 	},
 	{
-		"name": "Kirestin Dyer"
+		"Name": "Kirestin Dyer"
 	},
 	{
-		"name": "Portia Simon"
+		"Name": "Portia Simon"
 	},
 	{
-		"name": "Sylvia Bruce"
+		"Name": "Sylvia Bruce"
 	},
 	{
-		"name": "Emily Morales"
+		"Name": "Emily Morales"
 	},
 	{
-		"name": "Serina Ballard"
+		"Name": "Serina Ballard"
 	},
 	{
-		"name": "Debra Sargent"
+		"Name": "Debra Sargent"
 	},
 	{
-		"name": "Jayme Sherman"
+		"Name": "Jayme Sherman"
 	},
 	{
-		"name": "Yoko Humphrey"
+		"Name": "Yoko Humphrey"
 	},
 	{
-		"name": "Simone Gross"
+		"Name": "Simone Gross"
 	},
 	{
-		"name": "Ebony Lynn"
+		"Name": "Ebony Lynn"
 	}
 ]
 

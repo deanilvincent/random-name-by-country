@@ -15,10 +15,12 @@ function randomName(country, gender, nameType) {
 
   let names = [];
   if (nameType.toLowerCase() === "sn") {
-    names = require(`./by-country/${country.toUpperCase()}/${nametype.toUpperCase()}}/`);
+    names = require(`./by-country/${country.toUpperCase()}/${nameType.toLowerCase()}`);
   } else {
     names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
   }
+
+  console.log(require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`))
 
   const values = Object.values(names.default);
 
