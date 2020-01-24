@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/deanilvincent/random-name-by-country#readme",
   "dependencies": {
-    "load-json-file": "^6.2.0"
+    "read-package-json": "^2.1.1"
   }
 }

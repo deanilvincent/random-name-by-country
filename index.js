@@ -1,12 +1,13 @@
 function randomName(country, gender, nameType) {
-  const loadJsonFile = require("load-json-file");
+  var readJson = require("read-package-json");
   const file = `by-country/${country}/${gender}/${nameType}.json`;
-
-  (async () => {
-    const values = Object.values(await loadJsonFile(file));
-    const randomValue = values[parseInt(Math.random() * values.length)];
-    return randomValue.Name;
-  })();
+  readJson(file, console.error, false, function(er, data) {
+    if (er) {
+      console.error("There was an error reading the file");
+      return;
+    }
+    console.log(data);
+  });
 }
 
 module.exports.randomName = randomName;
