@@ -20,8 +20,6 @@ function randomName(country, gender, nameType) {
     names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
   }
 
-  console.log(require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`))
-
   const values = Object.values(names.default);
 
   const randomValue = values[parseInt(Math.random() * values.length)];
