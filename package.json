@@ -1,6 +1,6 @@
 {
   "name": "random-name-by-country",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Basic NPM package for generating random names by country.",
   "main": "index.js",
   "scripts": {
