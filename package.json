@@ -1,8 +1,9 @@
 {
   "name": "random-name-by-country",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic NPM package for generating random names by country.",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +18,6 @@
     "namebycountry",
     "randomnames"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "deanilvincent",
   "license": "MIT",
   "bugs": {
