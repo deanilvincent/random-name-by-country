@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/deanilvincent/random-name-by-country/issues"
   },
-  "homepage": "https://github.com/deanilvincent/random-name-by-country#readme"
+  "homepage": "https://github.com/deanilvincent/random-name-by-country#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0"
+  }
 }
