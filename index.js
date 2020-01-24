@@ -12,7 +12,7 @@ function randomName(country, gender, nameType) {
         return false
     }
 
-    const names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase}`);
+    const names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
 
     const values = Object.values(names.default);
 
