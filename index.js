@@ -2,7 +2,7 @@ function randomName(country, gender, nameType) {
   var fs = require("fs");
   var obj;
 
-  fs.readFile(`names-by-country/${country}/${gender}/${nameType}`, "utf8", function(err, data) {
+  fs.readFile(`by-country/${country}/${gender}/${nameType}.json`, "utf8", function(err, data) {
     if (err) throw err;
     obj = JSON.parse(data);
     const values = Object.values(obj);

@@ -17,6 +17,7 @@
     "namebycountry",
     "randomnames"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "deanilvincent",
   "license": "MIT",
   "bugs": {
