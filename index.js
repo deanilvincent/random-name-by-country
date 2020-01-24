@@ -1,24 +1,30 @@
 function randomName(country, gender, nameType) {
-    if(!country){
-        console.log('random-name-by-country: Country parameter is missing.')
-        return false
-    }
-    if(!gender){
-        console.log('random-name-by-country: Gender parameter is missing.')
-        return false
-    }
-    if(!nameType){
-        console.log('random-name-by-country: Name type parameter is missing.')
-        return false
-    }
+  const errorMsg = "Invalid: check console log error.";
+  if (!country) {
+    console.error("random-name-by-country: Country parameter is missing.");
+    return errorMsg;
+  }
+  if (!gender) {
+    console.error("random-name-by-country: Gender parameter is missing.");
+    return errorMsg;
+  }
+  if (!nameType) {
+    console.error("random-name-by-country: Name type parameter is missing.");
+    return errorMsg;
+  }
 
-    const names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
+  let names = [];
+  if (nameType.toLowerCase() === "sn") {
+    names = require(`./by-country/${country.toUpperCase()}/${nametype.toUpperCase()}}/`);
+  } else {
+    names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
+  }
 
-    const values = Object.values(names.default);
+  const values = Object.values(names.default);
 
-    const randomValue = values[parseInt(Math.random() * values.length)];
+  const randomValue = values[parseInt(Math.random() * values.length)];
 
-    return randomValue.Name;
+  return randomValue.Name;
 }
 
 module.exports.randomName = randomName;
