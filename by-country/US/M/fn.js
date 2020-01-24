@@ -1,4 +1,4 @@
-[
+const names = [
 	{
 		"Name": "Stephen"
 	},
@@ -300,3 +300,5 @@
 		"Name": "Amos"
 	}
 ]
+
+export default names;
