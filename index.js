@@ -1,14 +1,24 @@
 function randomName(country, gender, nameType) {
-  var fs = require("fs");
-  var obj;
+    if(!country){
+        console.log('random-name-by-country: Country parameter is missing.')
+        return false
+    }
+    if(!gender){
+        console.log('random-name-by-country: Gender parameter is missing.')
+        return false
+    }
+    if(!nameType){
+        console.log('random-name-by-country: Name type parameter is missing.')
+        return false
+    }
 
-  fs.readFile(`by-country/${country}/${gender}/${nameType}.json`, "utf8", function(err, data) {
-    if (err) throw err;
-    obj = JSON.parse(data);
-    const values = Object.values(obj);
+    const names = require(`./by-country/${country.toUpperCase()}/${gender.toUpperCase()}/${nameType.toLowerCase()}`);
+
+    const values = Object.values(names.default);
+
     const randomValue = values[parseInt(Math.random() * values.length)];
+
     return randomValue.Name;
-  });
 }
 
 module.exports.randomName = randomName;

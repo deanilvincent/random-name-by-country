@@ -1,11 +1,8 @@
 {
   "name": "random-name-by-country",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Basic NPM package for generating random names by country.",
   "main": "index.js",
-  // "publishConfig": {
-  //   "registry": "https://npm.pkg.github.com/"
-  // },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/deanilvincent/random-name-by-country/issues"
   },
-  "homepage": "https://github.com/deanilvincent/random-name-by-country#readme"
+  "homepage": "https://github.com/deanilvincent/random-name-by-country#readme",
+  "dependencies": {}
 }
