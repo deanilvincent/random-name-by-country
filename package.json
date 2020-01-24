@@ -23,7 +23,5 @@
     "url": "https://github.com/deanilvincent/random-name-by-country/issues"
   },
   "homepage": "https://github.com/deanilvincent/random-name-by-country#readme",
-  "dependencies": {
-    "read-package-json": "^2.1.1"
-  }
+  "dependencies": {}
 }
